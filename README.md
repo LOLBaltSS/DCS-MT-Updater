@@ -6,7 +6,7 @@ This assumes you are utilizing DCS OpenBeta on the Standalone install since Stea
 Instructions:
 Copy the "Update and Start DCS MT.ps1" to a location of your choosing.  Edit the "DCS MT.lnk" file and set the "Start in:" path to the location you saved the PS1 script.  Run the shortcut and it should run the updater and then launch DCS using the multi-threaded binary once the updater is closed.  Pin the shortcut to start or place on your desktop as you wish.
 
-Disclaimers: There is no warranty or guarantees of any kind and I am not responsible for any potential triggering of global thermonuclar war, crimes commited with sensor fused munitions, Jester turning your F-14 into a convertible, missed module release deadlines, or your computer melting.  
+Disclaimers: There is no warranty or guarantees of any kind and I am not responsible for any potential triggering of global thermonuclear war, crimes commited with sensor fused munitions, Jester turning your F-14 into a convertible, missed module release deadlines, or your computer melting.  
 
 ------------------------------------------------------------------
 License: 
